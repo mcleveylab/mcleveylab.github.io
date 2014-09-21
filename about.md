@@ -9,7 +9,7 @@ Broadly, my research and teaching interests are in the sociologies of knowledge 
 
 My current research, funded by SSHRC, examines collaborative relationships in large on-line networks of open source developers. My other research projects address knowledge production and promotion in think tanks, the structure of intellectual fields and networks, and struggles over expertise about climate change in the public sphere. 
 
-You can reach me at 647-921-2044, or john.mclevey[at]uwaterloo.ca. You can find more information about my research at [johnmclevey.com](johnmclevey.com)
+You can reach me at 647-921-2044, or john.mclevey[at]uwaterloo.ca. You can find more information about my research at [johnmclevey.com](johnmclevey.com), and my teaching at [johnmclevey.github.io](johnmclevey.github.io).
 
 ![](http://mclevey.github.io/images/johnmclevey.jpg)  
 
