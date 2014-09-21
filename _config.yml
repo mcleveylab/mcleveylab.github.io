@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            John McLevey
+tagline:          'A Jekyll theme'
+description:      'Assistant Professor, University of Waterloo'
+url:              http://hyde.getpoole.com
+
+author:
+  url:            https://twitter.com/johnmclevey
+
+paginate:         5
