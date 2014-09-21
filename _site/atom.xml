@@ -4,7 +4,7 @@
  <title>John McLevey</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2014-09-21T12:23:34-04:00</updated>
+ <updated>2014-09-21T12:55:17-04:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name></name>
@@ -17,31 +17,7 @@
    <link href="http://hyde.getpoole.com/2014/08/10/landing/"/>
    <updated>2014-08-10T00:00:00-04:00</updated>
    <id>http://hyde.getpoole.com/2014/08/10/landing</id>
-   <content type="html">&lt;p&gt;This site contains material for the courses I teach at the University of Waterloo. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Courses offered in 2014-2015&lt;/strong&gt;  &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;INTEG 120: Disciplines and Integrative Practices&lt;/li&gt;
-  &lt;li&gt;INTEG 251 / SOC ###: Creativity and Innovation&lt;/li&gt;
-  &lt;li&gt;INTEG 375 / SOC 312: Science &amp;amp; Technology in Society&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Courses in development&lt;/strong&gt;  &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Craft of Research / Research Methods&lt;/li&gt;
-  &lt;li&gt;The Politics of Information and Knowledge&lt;/li&gt;
-  &lt;li&gt;Public Understanding of Science&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Independent Studies courses I have done with Knowledge Integration students&lt;/strong&gt;  &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Applied Social Network Analysis&lt;/li&gt;
-  &lt;li&gt;Cultural Boundaries of Science&lt;/li&gt;
-  &lt;li&gt;Multiple courses in organizational theory and analysis&lt;/li&gt;
-&lt;/ul&gt;
+   <content type="html">&lt;p&gt;This site contains information for participants. &lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Powered by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;Hyde&lt;/a&gt;&lt;/em&gt; &lt;/p&gt;
 </content>
